@@ -28,10 +28,3 @@ print("Thời gian đi xe đò là:", s_c / 60.0)
 print("Quãng đường chạy bộ là:", s_a)
 print("Quãng đường đi bộ là:", s_b)
 print("Quãng đường đi xe đò là:", s_c)
-'''
-Xin chào mọi người mình tên là Nguyễn Văn Phú
-Hôm nay mình rất vui khi được test thử IDE mới
-Cái này code python ấy
-Để khi nào rảnh khám phá tiếp nha
-Bye mọi người
-'''
