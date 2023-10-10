@@ -1,0 +1,21 @@
+#* MOTHER of ignore '*'\:>
+*
+#! ignore all files and unignore some files you need with '!'
+
+# #* dot extension files
+# !*.py
+# !*.pdf
+
+#! IMPORTANT FOLDERS
+
+
+#! PROJECT FOLDERS
+!lop_10
+!lop_10/*.py
+
+!doc/
+!doc/*pdf
+
+#! OTHER IN ROOT FOLDER
+!.gitignore
+!bettercomments_extension.png
